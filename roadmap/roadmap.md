@@ -34,17 +34,13 @@
 
 \-Autotrading Bot Beta Launching
 
-\-Activating buying features TolPay  within Autotrading bot
+\-Activating buying features TolPay within Autotrading bot
 
 \- Activating TolPay Transfer Between Users within autotrading
 
 \-Publishing Signal Rating Report
 
-\-Publishing  the best signals for trade report
-
-&#x20;
-
-&#x20;
+\-Publishing the best signals for trade report
 
 **2022-Q1**
 
@@ -68,12 +64,12 @@
 
 **2022-Q3**
 
-\- TolsisLabs BlockChain Testnet
+\- BlockChain Testnet
 
 \- Creating Payment System Platform
 
 **2022-Q4**
 
-\-Tolsis BlockChain Mainnet
+\-BlockChain Mainnet
 
 \-Launching Tolsis Ecosystem
