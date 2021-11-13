@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Vision and Values.jpg
+cover: ../.gitbook/assets/10.jpg
 coverY: 0
 ---
 
