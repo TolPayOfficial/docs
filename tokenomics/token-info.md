@@ -16,6 +16,4 @@ coverY: 0
 | **Initial Circulating Supply** |                     |   |
 | **Contract**                   |                     |   |
 
-
-
-![](../.gitbook/assets/token.png)
+![](../.gitbook/assets/v1.jpg)
