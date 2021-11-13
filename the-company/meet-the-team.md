@@ -6,6 +6,8 @@ coverY: 0
 
 # Meet the Team!
 
+![](../.gitbook/assets/team.jpg)
+
 ## Management Team
 
 👋 management@tolpay.io
