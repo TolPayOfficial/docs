@@ -5,8 +5,6 @@ coverY: 0
 
 # Vision and Values
 
-![](../.gitbook/assets/vision.jpg)
-
 ## Our Vision
 
 As the TolPay team, we are planning to be a source for transparent controllable, minimum cost applications that can easily meet the needs of users from all levels in the future.
@@ -27,6 +25,3 @@ Becoming a secure platform to create and use/spend cryptocurrencies
 
 Developing Industry 4.0 and Industry 5.0 Commercial integrated Software in the Tolsis Blockchain network.
 
-
-
-![](<../.gitbook/assets/vision (1).png>)
