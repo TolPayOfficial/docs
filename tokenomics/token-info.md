@@ -15,5 +15,3 @@ coverY: 0
 | **Max Total Supply**           | 1,000,000,000       |   |
 | **Initial Circulating Supply** |                     |   |
 | **Contract**                   |                     |   |
-
-![](../.gitbook/assets/v1.jpg)
