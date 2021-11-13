@@ -1,15 +1,24 @@
-# Marketing Plan&#x20;
+---
+cover: ../.gitbook/assets/Marketing Plan.jpg
+coverY: 0
+---
 
-1-     Local Social Media Marketing
+# Marketing Plan
 
-2-     Business Marketing
+1- Local Social Media Marketing
 
-3-     Promotions Through World-wide Influencers
+2- Business Marketing
 
-4-     Airdrops & Bounties
+3- Promotions Through World-wide Influencers
 
-5-     International Social Media Marketing
+4- Airdrops & Bounties
 
-6-     International Business Marketing
+5- International Social Media Marketing
 
-7-     Word-tomouth Marketing
+6- International Business Marketing
+
+7- Word-to mouth Marketing
+
+
+
+![](../.gitbook/assets/marketing.png)
