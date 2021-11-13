@@ -43,6 +43,3 @@ e) Signal Marketplace
 
 Marketplace where users can rent of proven customized signals produced by developers within the platform.
 
-
-
-![](../.gitbook/assets/ttbot.png)
