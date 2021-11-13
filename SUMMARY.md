@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome1 !](README.md)
+* [Welcome!](README.md)
 
 ## The Company
 

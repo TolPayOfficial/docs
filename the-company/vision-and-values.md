@@ -24,3 +24,7 @@ Marketplace, creating the payment infrastructure between the Buyer and the Selle
 Becoming a secure platform to create and use/spend cryptocurrencies
 
 Developing Industry 4.0 and Industry 5.0 Commercial integrated Software in the Tolsis Blockchain network.
+
+
+
+![](<../.gitbook/assets/vision (1).png>)
