@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/ttbot.jpg
+cover: ../.gitbook/assets/ttbot (1).jpg
 coverY: 0
 ---
 
