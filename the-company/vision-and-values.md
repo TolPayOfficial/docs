@@ -5,11 +5,11 @@ coverY: 0
 
 # Vision and Values
 
+![](../.gitbook/assets/vision.jpg)
+
 ## Our Vision
 
 As the TolPay team, we are planning to be a source for transparent controllable, minimum cost applications that can easily meet the needs of users from all levels in the future.
-
-![](../.gitbook/assets/vision.jpg)
 
 ## Our Mission
 
