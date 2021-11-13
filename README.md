@@ -12,7 +12,7 @@ Unlike apps that force traditional money to be invested in cryptocurrencies, Tol
 
 It offers a real crypto investment/payment opportunity using blockchain technologies.
 
-This makes it possible for the tokens used on our platforms to gain value like other investments of users, thus allowing users to both earn extra income and indirectly reduced transaction fees.
+This makes it possible for the tokens used on our platforms to gain value like other investments of users, allowing them to  earn extra income and i get reduced transaction fees indirectly.
 
 
 
