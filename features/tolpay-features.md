@@ -1,17 +1,16 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+cover: ../.gitbook/assets/Features.jpg
 coverY: 0
 ---
 
 # Tolpay Features
 
-1\.    TTBot
+1\. TTBot
 
-2\.    Wallet
+2\. Wallet
 
-3\.    Swap
+3\. Swap
 
-4\.    Api Service
+4\. Api Service
 
 {% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+cover: ../.gitbook/assets/Vision and Values.jpg
 coverY: 0
 ---
 
@@ -8,11 +7,9 @@ coverY: 0
 
 ## Our Vision
 
-&#x20;
-
 As the TolPay team, we are planning to be a source for transparent controllable, minimum cost applications that can easily meet the needs of users from all levels in the future.
 
-## Our Mission&#x20;
+## Our Mission
 
 TolPay plans to support the effort to offer technologies to address price volatility and transaction scalability issues in existing public blockchain frameworks.
 
