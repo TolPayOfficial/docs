@@ -5,17 +5,17 @@ coverY: 0
 
 # Marketing Plan
 
-1- Local Social Media Marketing
+1- Growth Market Strategy
 
-2- Business Marketing
+2- Brand & Identity Design
 
-3- Promotions Through World-wide Influencers
+3- E mail Marketing and Ad Management
 
 4- Airdrops & Bounties
 
-5- International Social Media Marketing
+5- Social Media Marketing
 
-6- International Business Marketing
+6- Investor Relations
 
 7- Word-to mouth Marketing
 

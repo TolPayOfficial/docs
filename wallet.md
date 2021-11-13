@@ -5,11 +5,8 @@ coverY: 0
 
 # Tolpay Wallet&#x20;
 
-TolPay wallet aims to integrate your cryptocurrencies with crosschain (multiple blockchain networks) securely and with reasonable commission cost.
+Tolpay Wallet  allows users to  integrate their cryptocurrency assets with cross chain (multiple blockchain networks) securely with reasonable transaction fees.
 
-## Tolpay Swap&#x20;
+Tolpay Swap
 
-Swap is an in-wallet crypto-to-crypto exchange. Swap allows users to easily exchange one cryptocurrency for another without leaving their wallet.
-
-TolpaySwap, plans to make Tolpay transfers between users through the platforms it will create and working to develop the crypto exchanging system
-
+Swap is an in-wallet crypto-to-crypto exchange which let  users to switch one cryptocurrency for another easily.  Tolpay Swap, plans to make Tolpay transfers between users through the platforms it will create and to develop the crypto exchanging system.

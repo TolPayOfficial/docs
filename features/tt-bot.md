@@ -5,9 +5,9 @@ coverY: 0
 
 # Tolpay Trading  Bot (TT Bot)
 
-Tolpay Trading Bot let investors to automate buying and selling of spots formulated on key technical indicators. TT Bot  applies specific, customizable trading strategies, competing to achieve the highest “win rate”, or percentage of profitable trades and comprise stop losses  adjustment without continuous monitoring the market
+Tolpay Trading Bot let investors to automate buying and selling of spots formulated on key technical indicators. TT Bot  applies specific, customizable trading strategies, competing to achieve the highest “win rate”, or percentage of profitable trades and comprise stop losses  adjustment without continuous monitoring the market.
 
-### **Bot Features**
+### **TT Bot Features**
 
 #### **D**ca Bot
 
@@ -27,11 +27,11 @@ The dollar cost averaging allows you to regularly purchase small quantities of t
 
 #### SmartTrade
 
-SmartTrade is a special feature of Ttbot paired with signal triggers, designed for advanced traders.
+SmartTrade is a special feature of **TT Bot** paired with signal triggers, designed for advanced traders.
 
 #### Grid Bot
 
-SmartTrade is a special feature of Ttbot paired with Signal Triggers , designed for beginners. Simply choose a coin and the bot buys when the price drops and sells when it rises.
+SmartTrade is a special feature of **TT Bot** paired with Signal Triggers , designed for beginners. Simply choose a coin and the bot buys when the price drops and sells when it rises.
 
 #### Customized Signals
 

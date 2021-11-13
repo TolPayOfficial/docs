@@ -5,23 +5,10 @@ coverY: 0
 
 # Vision and Values
 
-## Our Vision
+Vision
 
-As the TolPay team, we are planning to be a source for transparent controllable, minimum cost applications that can easily meet the needs of users from all levels in the future.
+Tolpay is founded with the idea of “Easy and profitable cryptocurrency  trading for everyone.” With this perspective Tolpay will keep developing integrated trading tools and ecosystem  to make the cryptocurrency trading easer, safer and more profitable for all level of users.
 
-## Our Mission
+&#x20;Mission
 
-TolPay plans to support the effort to offer technologies to address price volatility and transaction scalability issues in existing public blockchain frameworks.
-
-Tolpay’s main focuses:
-
-Automating trading on cryptocurrency exchanges
-
-Wallet
-
-Marketplace, creating the payment infrastructure between the Buyer and the Seller
-
-Becoming a secure platform to create and use/spend cryptocurrencies
-
-Developing Industry 4.0 and Industry 5.0 Commercial integrated Software in the Tolsis Blockchain network.
-
+Tolpay plans to support the efforts of providing technologies for addressing the problems of price volatility and transaction scalability  within  existing blockchain frameworks
