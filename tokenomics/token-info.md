@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/tokenomic (1).jpg
+cover: ../.gitbook/assets/brandj.jpg
 coverY: 0
 ---
 
