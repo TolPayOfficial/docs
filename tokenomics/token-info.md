@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/tokenomic (1).jpg
+coverY: 0
+---
+
 # Token Info
 
 |                                |                     |   |
@@ -10,3 +15,7 @@
 | **Max Total Supply**           | 1,000,000,000       |   |
 | **Initial Circulating Supply** |                     |   |
 | **Contract**                   |                     |   |
+
+
+
+![](../.gitbook/assets/token.png)
