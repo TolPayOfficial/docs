@@ -19,6 +19,3 @@ coverY: 0
 
 7- Word-to mouth Marketing
 
-
-
-![](../.gitbook/assets/marketing.png)
