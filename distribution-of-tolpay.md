@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Distribution of Tolpay.jpg
+cover: .gitbook/assets/dist2.jpg
 coverY: 0
 ---
 
