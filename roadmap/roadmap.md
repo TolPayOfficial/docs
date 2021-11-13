@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/roadmap.jpg
+cover: ../.gitbook/assets/road2.jpg
 coverY: 0
 ---
 
