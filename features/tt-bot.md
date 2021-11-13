@@ -44,9 +44,3 @@ e) Signal Marketplace
 Marketplace where users can rent of proven customized signals produced by developers within the platform.
 
 ##
-
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
