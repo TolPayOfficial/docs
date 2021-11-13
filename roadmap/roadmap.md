@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/roadmap.jpg
+coverY: 0
+---
+
 # Roadmap
 
 **2021-Q1**
@@ -73,3 +78,6 @@
 \-BlockChain Mainnet
 
 \-Launching Tolsis Ecosystem
+
+
+

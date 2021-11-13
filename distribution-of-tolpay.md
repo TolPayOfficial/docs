@@ -5,4 +5,4 @@ coverY: 0
 
 # Distribution of Tolpay
 
-![](<.gitbook/assets/tokenomics (1).png>)
+![](<.gitbook/assets/whitepaper-Recovered copy (1).jpg>)
