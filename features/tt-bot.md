@@ -42,5 +42,3 @@ You connect your bot to one or more signal triggers of your choice and the bot w
 e) Signal Marketplace
 
 Marketplace where users can rent of proven customized signals produced by developers within the platform.
-
-##
