@@ -1,6 +1,6 @@
 ---
 description: Tolsis Labs
-cover: ../.gitbook/assets/Meet the Team.jpg
+cover: ../.gitbook/assets/9.jpg
 coverY: 0
 ---
 
