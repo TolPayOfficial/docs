@@ -6,22 +6,22 @@ coverY: 0
 
 # Meet the Team!
 
-![](../.gitbook/assets/team.jpg)
-
 ## Management Team
 
 👋 management@tolpay.io
 
-### Bio
+
+
+### [https://tolsislabs.com/#Teams](https://tolsislabs.com/#Teams)
 
 ## Developper Team
 
 👋 developper@tolpay.io
 
-### Bio
+### [https://tolsislabs.com/#Teams](https://tolsislabs.com/#Teams)
 
 ## Marketing Team
 
 👋 marketing@tolpay.com
 
-### Bio
+### [https://tolsislabs.com/#Teams](https://tolsislabs.com/#Teams)

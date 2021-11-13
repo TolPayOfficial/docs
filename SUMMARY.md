@@ -10,12 +10,11 @@
 ## Features
 
 * [Tolpay Features](features/tolpay-features.md)
-* [TT BOT](features/tt-bot.md)
+* [Tolpay Trading  Bot (TT Bot)](features/tt-bot.md)
 
 ***
 
-* [Wallet](wallet.md)
-* [Swap](swap.md)
+* [Tolpay Wallet ](wallet.md)
 * [Api Service](api-service.md)
 
 ## Marketing

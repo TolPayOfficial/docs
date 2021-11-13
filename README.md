@@ -5,8 +5,6 @@ cover: .gitbook/assets/t-logo-n.png
 
 # Welcome!
 
-![](.gitbook/assets/welcome.jpg)
-
 ## What is Tolpay!
 
 TolPay is a trusted cryptocurrency compatible with BSC smart contract functions within the BSC Blockchain network, working in integration with high-performance trading tools, Tolpay provides users with the most efficient trading experience.
