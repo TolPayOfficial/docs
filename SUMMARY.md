@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome !](README.md)
+* [Welcome1 !](README.md)
 
 ## The Company
 
@@ -20,7 +20,7 @@
 
 ## Marketing
 
-* [Marketing Plan ](marketing/marketing-plan.md)
+* [Marketing Plan](marketing/marketing-plan.md)
 
 ## Tokenomics
 
