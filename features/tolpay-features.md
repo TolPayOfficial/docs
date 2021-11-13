@@ -12,5 +12,3 @@ coverY: 0
 3\. Swap
 
 4\. Api Service
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
